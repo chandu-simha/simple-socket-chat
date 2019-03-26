@@ -6,4 +6,4 @@
 >	php -f server.php
 
 	access the client.php in browser
->	example: http://localhost/client.php
+>	:coffee :tea :school
