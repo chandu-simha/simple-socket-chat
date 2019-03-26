@@ -6,4 +6,5 @@
 >	php -f server.php
 
 	access the client.php in browser
->	:coffee :tea :school
+
+   :coffee:
