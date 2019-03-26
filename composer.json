@@ -1,12 +1,11 @@
 {
-    "name": "narasimha.chandu/simple-socket-chat",
+    "name": "narasimha/simple-socket-chat",
     "description": "Simple chat app using sockets",
     "type": "project",
     "license": "MIT",
     "authors": [
         {
             "name": "Narasimha",
-            "email": "chandu.narasimha4@gmail.com"
         }
     ],
     "minimum-stability": "dev",
